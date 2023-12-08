@@ -1,6 +1,7 @@
 # Unity的主要界面
 
-![sda1](C:\Users\SQBA\Desktop\sda1.webp)
+![sda1](![image](https://github.com/QSbian/Unity-/assets/150455730/43f8a39d-96b2-4014-8880-303ff55b5776)
+)
 
 ## 2D与3D的转换
 
